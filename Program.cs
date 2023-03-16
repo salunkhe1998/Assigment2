@@ -19,6 +19,8 @@
            // SumofNaturalNumber.Display();
             // ArithmaticOPeration.ArithmaticOperation();
             //SumNaturalNumber.CheckSumNaturalNumber();
+            //EligibleForVoting.CheckEligibleVoting();
+            // LargestNumber.CheakLargestNum();
         }
 
 
